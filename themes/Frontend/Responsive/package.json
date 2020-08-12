@@ -29,7 +29,7 @@
   },
   "homepage": "https://github.com/shopware/shopware#readme",
   "dependencies": {
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.1",
     "jquery.event.swipe": "^0.5.4",
     "jquery.transit": "^0.9.12",
     "normalize.css.less": "^3.0.3",
